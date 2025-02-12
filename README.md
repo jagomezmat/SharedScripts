@@ -17,12 +17,12 @@ Nota:
 
 Para instalar OpenCV
 
-pip install opencv-python
+   pip install opencv-python
 
 O para instalar las versiones completas con módulos extra:
 
-pip install opencv-python-headless  # Sin GUI
+   pip install opencv-python-headless  # Sin GUI
 
-pip install opencv-contrib-python  # Con módulos extra
+   pip install opencv-contrib-python  # Con módulos extra
 
 
