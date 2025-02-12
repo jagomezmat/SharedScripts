@@ -3,13 +3,13 @@
 **Pasos:**
 1. Crear un entorno virtual
 
-   python -m venv venv  
-   source venv/bin/activate  # Linux/macOS  
-   venv\Scripts\activate  # Windows
+         python -m venv venv  
+         source venv/bin/activate  # Linux/macOS  
+         venv\Scripts\activate  # Windows
   
 3. Instalar dependencias
    
-   pip install -r requirements.txt
+         pip install -r requirements.txt
    
 4. Ejecutar el programa teniendo presente las imágenes a analizar
 
