@@ -14,10 +14,15 @@
 4. Ejecutar el programa teniendo presente las imágenes a analizar
 
 Nota:
+
 Para instalar OpenCV
+
 pip install opencv-python
-O las versiones completas con módulos extra:
+
+O para instalar las versiones completas con módulos extra:
+
 pip install opencv-python-headless  # Sin GUI
+
 pip install opencv-contrib-python  # Con módulos extra
 
 
